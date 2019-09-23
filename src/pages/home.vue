@@ -87,7 +87,7 @@ export default {
    }
 }
 </script>
-<style>
+<style scoped>
     .nav{
         height: 100px;
         padding-top: 44px;

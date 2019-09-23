@@ -58,6 +58,9 @@ export default {
         /* 如果有时候不希望 px转换成rem  只需要在后面+ no */
         /*height: 40px;*//*no */
     /* } */
+    /* .detail-page{
+        font-size: 0;
+    } */
     .video{
         position: relative;
         height: 200px;
@@ -109,7 +112,7 @@ export default {
     }
     .question{
         padding: 20px;
-        margin-bottom: 8px;
+        background: #fff;
     }
     .question li h1{
         font-size: 14px;
